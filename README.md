@@ -1,5 +1,7 @@
 # GitLab SAST for NodeJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mgibeau/gitlab-sast-nodejs.svg)](https://greenkeeper.io/)
+
 This project uses [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) to scan and report
 security issues.
 
